@@ -8,11 +8,11 @@ Stable tag: .1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Auto collapses widgets and allows users to toggle widgets open and closed with jQuery.
+Hides widget content on page load then allows the user to toggle widgets open and closed by clicking the widget title.
 
 == Description ==
 
-Auto collapses widgets and allows users to toggle widgets open and closed with jQuery.
+Hides widget content on page load then allows the user to toggle widgets open and closed by clicking the widget title.
 
 == Installation ==
 
