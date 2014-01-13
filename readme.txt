@@ -2,7 +2,7 @@
 Contributors: nickciske
 Donate link: https://thoughtrefinery.com/donate/
 Tags: widget, toggle, jquery
-Requires at least: 3.3
+Requires at least: 3.5
 Tested up to: 3.8
 Stable tag: .1
 License: GPLv2 or later
