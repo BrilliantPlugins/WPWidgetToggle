@@ -3,6 +3,9 @@ WPWidgetToggle
 
 WP Widget Toggle
 
+WordPress.org Plugin Repo:
+http://wordpress.org/plugins/wp-widget-toggle/
+
 Hides widget content on page load then allows the user to toggle widgets open and closed by clicking the widget title.
 
 Inspired by this MSP WP thread:
