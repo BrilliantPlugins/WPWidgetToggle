@@ -4,7 +4,7 @@ Plugin Name: WP Widget Toggle
 Plugin URI: https://github.com/nciske/WPWidgetToggle
 Description: WP Widget Toggler
 Author: Nick Ciske (ThoughtRefinery)
-Version: 1.0
+Version: 0.1
 Author URI: http://thoughtrefinery.com/
 */
 
