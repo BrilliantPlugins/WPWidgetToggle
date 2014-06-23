@@ -4,7 +4,7 @@ Donate link: https://thoughtrefinery.com/donate/
 Tags: widget, toggle, jquery
 Requires at least: 3.5
 Tested up to: 3.8
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Hides widget content on page load then allows the user to toggle widgets open an
 
 == Description ==
 
-Hides widget content on page load then allows the user to toggle widgets open and closed by clicking the widget title.
+Hides widget content on page load then allows the user to toggle widgets open and closed by clicking the widget title. Requires all widgets you want to toggle to have a title (clicking the title toggles the widget open and closed).
 
 == Installation ==
 
@@ -30,6 +30,10 @@ Yes. Adding a jQuery selector to limit which widgets are affected is planned for
 Open a support thread and I’ll see if we can make it compatible with your theme's custom markup.
 
 == Changelog ==
+
+= 0.2 =
+* Add option to keep widgets open on load
+* Add option to target widgets or widget areas with jQuery selectors
 
 = 0.1 =
 * Initial release, works with default WP widget markup
